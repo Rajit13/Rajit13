@@ -1,4 +1,4 @@
-## Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm [Fahim Rajit Hossain!](https://www.linkedin.com/in/fahim-rajit-hossain/) 
+## Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm [Fahim Rajit Hossain!](https://rajit13.github.io/) 
 
 I am a fresh electrical Engineering graduate 🎓 with a strong background in Astronomy & Astrophysics 🔭 and experience in astronomical data analysis, machine learning, science olympiads, and statistics 🔥. Currently, I am working as an **Academic coordinator, coach, and [Bangladesh Team Leader](https://www.ioaastrophysics.org/international-board/)** 📡🖊 at the [**Bangladesh Olympiad on Astronomy and Astrophysics (BDOAA)**](http://bdoaa.org/) 🏛️. My research interests include Exoplanetary Atmosphere, [Strong Gravitational Lensing, Dark Matter distribution](https://www.astrobridge.org/projects/bdlensing), and Variable Stars ✨. As I am passionate about learning new topics in astronomical data science, visualizing data, and conducting research 🤓, I enjoy sharing valuable insights 🧐 and making an impact that helps others learn. I am always open to discussions, so feel free to ask questions or share concerns 💬.
 
@@ -13,7 +13,7 @@ I am a fresh electrical Engineering graduate 🎓 with a strong background in As
 - 💬 Ask me about anything related to sky observation.
 - 📫 How to reach me: [Gmail](mailto:farahoshwadhin.13@gmail.com)
 - 😄 Pronouns: He/Him
-- 🧾 Check out my [resume](https://www.linkedin.com/in/fahim-rajit-hossain/overlay/1635529680467/single-media-viewer/?profileId=ACoAACR5r-8BpLPeru3Tcm0I_xcYm9jfmT0Eb8w).
+- 🧾 Check out my [resume](https://github.com/Rajit13/Rajit13.github.io/blob/23c1356b082c9fae70e03e74c904a74790c2c400/website_docs/Fahim_CV_Resume.pdf).
 - 📝 I often write articles on [my blog](https://bdoaa.org/exoplanet-atmosphere-bangla/).
 - ⚡ Fun fact: I am writing Bangladesh's first-ever Astronomy Textbook (mostly focused on Olympiads)
 
